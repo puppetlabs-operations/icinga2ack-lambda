@@ -1,0 +1,5 @@
+{
+    "icinga2_url": "https://icinga2.example.com:5665",
+    "icinga2_user": "icinga2_api_user",
+    "icinga2_password": "password",
+}
